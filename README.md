@@ -10,7 +10,7 @@
   </picture>
 </a>
 
-<br><br>
+<br>
 
 <!-- PLAQUES:DEBUT · généré depuis plaques.yml, ne pas éditer à la main -->
 <p>
@@ -25,7 +25,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/partition-sombre.svg"><img src="assets/partition-clair.svg" width="100%" alt="Partition des contributions de lokrafter sur 12 mois. 7 271 contributions depuis mars 2024, série en cours de 29 jours, plus longue série de 181 jours."></picture>
 <!-- PARTITION:FIN -->
 
-<br><br>
+<br>
 
 <p>
   <a href="https://forgenza.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boutons/forgenza-sombre.svg"><img src="assets/boutons/forgenza-clair.svg" height="46" alt="forgenza.com"></picture></a>
