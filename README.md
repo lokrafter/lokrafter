@@ -1,53 +1,34 @@
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lokrafter" alt="GitHub Streak" /></a>
-</div>
+<!-- README de lokrafter · DA Forgenza « L'Affiche »
+     Les blocs PLAQUES et PARTITION sont réécrits par scripts/readme.mjs :
+     modifie plaques.yml plutôt que ces blocs. -->
 
-###
+<a href="https://forgenza.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/affiche-sombre.svg">
+    <img src="assets/affiche-clair.svg" width="100%"
+         alt="Loris. Je bâtis des logiciels qui tiennent debout. Architecte logiciel et développeur full-stack, fondateur de Forgenza.">
+  </picture>
+</a>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=symfony" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-</div>
+<br><br>
 
-###
+<!-- PLAQUES:DEBUT · généré depuis plaques.yml, ne pas éditer à la main -->
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/plaques/fz-games-sombre.svg"><img src="assets/plaques/fz-games-clair.svg" width="49%" alt="FZ Games : Jeux de soirée, dans le navigateur. Jouer."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/plaques/bientot-sombre.svg"><img src="assets/plaques/bientot-clair.svg" width="49%" alt="Prochaine sortie : Une nouvelle plaque arrive ici."></picture>
+</p>
+<!-- PLAQUES:FIN -->
 
-<div align="center">
-  <a href="https://www.youtube.com/@aquariophilelyonnais794" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://fr.linkedin.com/in/loris-c-b70255b5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokrafter&label=Profile%20views&color=0e75b6&style=flat" alt="lokrafter" />
-</div>
+<!-- PARTITION:DEBUT · redessinée chaque nuit par .github/workflows/readme.yml -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/partition-sombre.svg"><img src="assets/partition-clair.svg" width="100%" alt="Partition des contributions de lokrafter sur 12 mois. 3 568 contributions depuis mars 2024, série en cours de 28 jours, plus longue série de 184 jours."></picture>
+<!-- PARTITION:FIN -->
 
-###
+<br><br>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/loris-dev/loris-dev/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
+<p>
+  <a href="https://forgenza.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boutons/forgenza-sombre.svg"><img src="assets/boutons/forgenza-clair.svg" height="46" alt="forgenza.com"></picture></a>
+  <a href="https://fr.linkedin.com/in/loris-c-b70255b5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boutons/linkedin-sombre.svg"><img src="assets/boutons/linkedin-clair.svg" height="46" alt="LinkedIn"></picture></a>
+  <a href="https://www.youtube.com/@aquariophilelyonnais794"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/boutons/youtube-sombre.svg"><img src="assets/boutons/youtube-clair.svg" height="46" alt="YouTube"></picture></a>
+</p>

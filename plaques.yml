@@ -1,0 +1,27 @@
+# Plaques produits du README : une entrée = une plaque.
+# Ajoute, retire ou réordonne les entrées puis pousse : l'Action redessine
+# les plaques (claires + sombres) et réécrit le bloc PLAQUES du README.
+#
+#   id        identifiant, sert de nom de fichier (minuscules, tirets)
+#   nom       22 caractères max conseillés
+#   accroche  une ligne, ~38 caractères max conseillés
+#   statut    en-ligne | beta | bientot
+#   cta       texte du bouton (ignoré pour « bientot »)
+#   url       lien de la plaque ; vide = plaque sans lien
+#   icone     de | fz | une lettre (ex. « M »)
+
+- id: fz-games
+  nom: FZ Games
+  accroche: Jeux de soirée, dans le navigateur
+  statut: en-ligne
+  cta: Jouer
+  url:
+  icone: de
+
+- id: bientot
+  nom: Prochaine sortie
+  accroche: Une nouvelle plaque arrive ici
+  statut: bientot
+  cta:
+  url:
+  icone: "?"
