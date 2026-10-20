@@ -15,6 +15,9 @@
 <!-- PLAQUES:DEBUT · généré depuis plaques.yml, ne pas éditer à la main -->
 <p>
   <a href="https://games.forgenza.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/plaques/fz-games-sombre.svg"><img src="assets/plaques/fz-games-clair.svg" width="49%" alt="FZ Games : Jeux de soirée, dans le navigateur. Jouer."></picture></a>
+  <a href="https://datapi.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/plaques/datapi-sombre.svg"><img src="assets/plaques/datapi-clair.svg" width="49%" alt="Datapi : On affiche. Si le visiteur est curieux, il agit.. Jouer."></picture></a>
+</p>
+<p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/plaques/bientot-sombre.svg"><img src="assets/plaques/bientot-clair.svg" width="49%" alt="Prochaine sortie : Une nouvelle plaque arrive ici."></picture>
 </p>
 <!-- PLAQUES:FIN -->
@@ -22,7 +25,7 @@
 <br>
 
 <!-- PARTITION:DEBUT · redessinée chaque nuit par .github/workflows/readme.yml -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/partition-sombre.svg"><img src="assets/partition-clair.svg" width="100%" alt="Partition des contributions de lokrafter sur 12 mois. 7 294 contributions depuis mars 2024, série en cours de 30 jours, plus longue série de 181 jours."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/partition-sombre.svg"><img src="assets/partition-clair.svg" width="100%" alt="Partition des contributions de lokrafter sur 12 mois. 7 295 contributions depuis mars 2024, série en cours de 30 jours, plus longue série de 181 jours."></picture>
 <!-- PARTITION:FIN -->
 
 <br>
