@@ -307,6 +307,7 @@ function plaque(p, shadow) {
   let icon;
   if (p.icone === "de") icon = [[42, 42], [90, 42], [66, 68], [42, 94], [90, 94]].map(([x, y]) => `<circle cx="${x - 2}" cy="${y}" r="7" fill="${ink}"/>`).join("");
   else if (p.icone === "fz") icon = fz(36, 40, 56, ink);
+  else if (p.icone === "datapi") icon = `<rect x="36" y="74" width="14" height="22" fill="${ink}"/><rect x="57" y="58" width="14" height="38" fill="${ink}"/><rect x="78" y="40" width="14" height="56" fill="${ink}"/><rect x="36.5" y="55.5" width="14" height="14" fill="${ink}"/><rect x="33.5" y="52.5" width="14" height="14" fill="${off ? C.surface2 : C.paper}" stroke="${ink}" stroke-width="2.4"/><rect x="32" y="96" width="64" height="3" fill="${ink}"/>`;
   else icon = `<text x="64" y="85" class="title" font-size="46" text-anchor="middle" fill="${ink}">${esc((p.icone || "?").slice(0, 2))}</text>`;
   let cta = "";
   if (!off && p.cta) {

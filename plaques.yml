@@ -8,7 +8,7 @@
 #   statut    en-ligne | beta | bientot
 #   cta       texte du bouton (ignoré pour « bientot »)
 #   url       lien de la plaque ; vide = plaque sans lien
-#   icone     de | fz | une lettre (ex. « M »)
+#   icone     de | fz | datapi | une lettre (ex. « M »)
 
 - id: fz-games
   nom: FZ Games
@@ -17,6 +17,14 @@
   cta: Jouer
   url: https://games.forgenza.com
   icone: de
+
+- id: datapi
+  nom: Datapi
+  accroche: On affiche. Si le visiteur est curieux, il agit.
+  statut: en-ligne
+  cta: Jouer
+  url: https://datapi.fr
+  icone: datapi
 
 - id: bientot
   nom: Prochaine sortie
