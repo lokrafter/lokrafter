@@ -25,7 +25,7 @@
 <br>
 
 <!-- PARTITION:DEBUT · redessinée chaque nuit par .github/workflows/readme.yml -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/partition-sombre.svg"><img src="assets/partition-clair.svg" width="100%" alt="Partition des contributions de lokrafter sur 12 mois. 8 130 contributions depuis mars 2024, série en cours de 53 jours, plus longue série de 181 jours."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/partition-sombre.svg"><img src="assets/partition-clair.svg" width="100%" alt="Partition des contributions de lokrafter sur 12 mois. 8 132 contributions depuis mars 2024, série en cours de 54 jours, plus longue série de 181 jours."></picture>
 <!-- PARTITION:FIN -->
 
 <br>
